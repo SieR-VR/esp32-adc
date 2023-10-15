@@ -1,0 +1,5 @@
+# build artifact
+build/**/*
+
+# local environment files
+.vscode/settings.json
